@@ -2,6 +2,7 @@
 
 --[[
 	Modified Spring module made by BlackShibe. Author of edit - Atlantos_1
+	Original: https://www.roblox.com/library/5692144533/spring
 	Features:
 		- Luau Typecheck
 		- Non-FPS Dependant
